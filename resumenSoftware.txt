@@ -1,0 +1,5 @@
+Lista con 3 ejemplos de Software:
+
+-Google Chrome
+-Visual Studio Code
+-Zoom

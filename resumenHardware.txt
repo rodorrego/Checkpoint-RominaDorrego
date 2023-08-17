@@ -1,0 +1,5 @@
+Lista con 3 ejemplos de Hardware:
+
+-Procesador
+-RAM
+-Disco Duro

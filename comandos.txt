@@ -1,0 +1,32 @@
+   97  git init
+   98  touch main.js index.html
+   99  git add .
+  100  git commit -m "commit 01 de RominaDorrego"
+  101  git remote add origin https://github.com/rodorrego/Checkpoint-RominaDorrego.git
+  102  git push origin main
+  103  git branch feature
+  104  git switch feature
+  105  mkdir Hardware Software SeguridadInformatica
+  106  cd SeguridadInformatica/
+  107  touch resumen.txt
+  108  cd ..
+  109  cd Software/
+  110  touch resumen.txt
+  111  cd ..
+  112  cd Hardware/
+  113  touch resumen.txt
+  114  git status
+  115  git add .
+  116  git status
+  117  cd ...
+  118  cd ..
+  119  git add .
+  120  git status
+  121  git commit -m "commit 02 de RominaDorrego"
+  122  git push origin feature
+  123  git switch main
+  124  mv main.js resumenHardware.txt
+  125  mv index.html resumenSoftware.txt
+  126  touch comandos.txt
+  127  git history
+  128  history
